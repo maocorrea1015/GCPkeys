@@ -26,7 +26,7 @@ It is intended for educational purposes and authorized use only.
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/GSPkey.git
+git clone https://github.com/maocorrea1015/GCPkeys.git
 cd GSPkey
 ```
 
