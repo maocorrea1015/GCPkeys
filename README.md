@@ -33,7 +33,7 @@ cd GSPkey
 Run it:
 
 ```bash
-python gspkey.py
+python GSPkey.py
 ```
 
 > Optional: create a virtual environment
